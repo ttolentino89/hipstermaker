@@ -19,6 +19,8 @@ How it works:
 5. User is then given the option to "create a new millenial", this continuing the endless cycle of creating new fake hipsters for some bizarre impractical reason, possibly catfishing.
 6. ....profit?
 
+Post-MVP:
+Would definitely like to flesh this out into something a bit more substantial, if not practical (ha.) Maybe like a fake hipster swipe-based dating parody game where you match with people based on music that doesn't exist? Honestly this sounds kinda like how awful tinder and stuff already is, so why not get some comedic relief out of it?
 
 
 
